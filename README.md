@@ -50,6 +50,6 @@ Pin assignment for relays and switch inputs. For single channel version only REL
 
 ## To Do
 
-[] finish 3D printed case
-[] reduce footprint with next revision
-[] change layout of programming pins and add RTS support
+- [ ] finish 3D printed case
+- [ ] reduce footprint with next revision
+- [ ] change layout of programming pins and add RTS support
