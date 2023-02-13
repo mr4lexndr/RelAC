@@ -32,20 +32,16 @@ Status LED and Control Button are attached to deafault pins for most of the boar
 ## PINOUT
 Four channels can be configured per requiremnts. Specific sections 1-3 has been marked on PCB. Only one group from each section should be soldered based on selected funtion. Available options:
 
-| RELAY 1    | GPIO |
-| ---------  | ---- | 
+| COMPONENT   | GPIO |
+| ---------  | :---: | 
+| **RELAY1** |
 | set coil   | 27   | 
 | reset coil | 26   |
-
-| RELAY 2    | GPIO |
-| ---------  | ---- | 
+| **RELAY2** |
 | set coil   | 33   | 
 | reset coil | 32   |
-
-| LIVE INPUT | GPIO |
-| ---------  | ---- | 
-| Switch 1   | 16   | 
-| Switch 2   | 13   |
+| **Switch1**   | 16   | 
+| **Switch2**   | 13   |
 
 
 
