@@ -20,8 +20,8 @@ This work is licensed under a
 - Status LED and Control push button for easy configuration
 - 2 latching relays for low power consumption and thermal emmisions
 - 2 live inputs
-- Small form factor to be hidden behind wall light switch.
- - Can be configured as single channel device to save cost
+- Small form factor to be hidden behind the wall light switch.
+- Can be configured as single channel device to save cost
 
 
 ## User Integration with HomeSpan
