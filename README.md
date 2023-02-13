@@ -32,21 +32,18 @@ Status LED and Control Button are attached to deafault pins for most of the boar
 ## PINOUT
 Four channels can be configured per requiremnts. Specific sections 1-3 has been marked on PCB. Only one group from each section should be soldered based on selected funtion. Available options:
 
-| COMPONENT   | GPIO |
-| ---------  | :---: | 
-| **RELAY1** |
-| set coil   | 27   | 
-| reset coil | 26   |
-| **RELAY2** |
-| set coil   | 33   | 
-| reset coil | 32   |
-| **Switch1**   | 16   | 
-| **Switch2**   | 13   |
+| COMPONENT         | GPIO |
+| ---               | :---:| 
+| **RELAY 1** set   | 27   | 
+| **RELAY 1** reset | 26   |
+| **RELAY 2** set   | 33   | 
+| **RELAY 2** reset | 32   |
+| **SWITCH 1**      | 16   | 
+| **SWITCH 2**      | 13   |
 
 
 
 ## TO DO
 
-- 3D printed case
-- update power circuit with more common IC
-- update programming connector and decrease the size of the board
+- finish 3D printed case
+- reduce footprint with next revision
