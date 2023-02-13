@@ -36,10 +36,12 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 | ---------  | ---- | 
 | set coil   | 27   | 
 | reset coil | 26   |
+
 | RELAY 2    | GPIO |
 | ---------  | ---- | 
 | set coil   | 33   | 
 | reset coil | 32   |
+
 | LIVE INPUT | GPIO |
 | ---------  | ---- | 
 | Switch 1   | 16   | 
