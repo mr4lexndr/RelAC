@@ -30,7 +30,7 @@ Status LED and Control Button are attached to deafault pins for most of the boar
 - Button - GPIO0
 
 ## PINOUT
-Four channels can be configured per requiremnts. Specific sections 1-3 has been marked on PCB. Only one group from each section should be soldered based on selected funtion. Available options:
+Pin assignment for relays and switch inputs. For single channel version only RELAY1 and SWITCH2 are used.
 
 | COMPONENT    | GPIO |
 | ---          | :---:| 
