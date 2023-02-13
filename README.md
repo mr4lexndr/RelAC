@@ -22,6 +22,11 @@ This work is licensed under a
 - 2 live inputs
 - Small form factor to be hidden behind the wall light switch.
 - Can be configured as single channel device to save cost
+  
+**Switching Relays**  
+Panasonic ADW1203HLW  
+Switching Capacity 16A @ 277V AC  
+Contact material AgSnO2 to minimise wear  
 
 
 ## User Integration with HomeSpan
