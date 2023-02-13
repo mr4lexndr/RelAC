@@ -34,7 +34,7 @@ Status LED and Control Button are attached to deafault pins for most of the boar
 - LED - GPIO2
 - Button - GPIO0
 
-## PINOUT
+## Pinout
 Pin assignment for relays and switch inputs. For single channel version only RELAY1 and SWITCH2 are used.
 
 | COMPONENT    | GPIO |
@@ -48,7 +48,7 @@ Pin assignment for relays and switch inputs. For single channel version only REL
 
 
 
-## TO DO
+## To Do
 
 - finish 3D printed case
 - reduce footprint with next revision
