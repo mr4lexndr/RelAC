@@ -11,7 +11,7 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 # RelAC
- HomeKit 2-channel Relay module with mains Switch Input based on [HomeSpan](https://github.com/HomeSpan/HomeSpan) library. It is maily intended to be used with mains voltage appliances controlled in parrallel with Home app and physical switch. It could be hidden e.g. behind wall ligth switch.
+HomeKit 2-channel Relay module with mains Switch Input based on the HomeSpan library. It is mainly intended to be used with mains voltage appliances controlled in parallel with the Home app and physical switch. It could be hidden e.g. behind a wall light switch.
 
 ![RelAC](https://github.com/mr4lexndr/RelAC/blob/main/assets/RelAC-transparent.png)
 
