@@ -23,10 +23,10 @@ HomeKit 2-channel Relay module with mains Switch Input based on the HomeSpan lib
 - Small form factor to be hidden behind the wall light switch.
 - Can be configured as single channel device to save cost
   
-**Switching Relays**  
-Panasonic ADW1203HLW  
-Switching Capacity 16A @ 277V AC  
-Contact material AgSnO2 to minimise wear  
+### Switching Relays
+- High quality, low wear Panasonic ADW1203HLW  
+- Switching Capacity 16A @ 277V AC  
+- Contact material AgSnO2 to minimise arcing  
 
 
 ## User Integration with HomeSpan
