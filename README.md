@@ -1,19 +1,24 @@
 ![ReleaseVersion](https://img.shields.io/github/v/release/mr4lexndr/RelAC)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+<a href="https://www.tindie.com/stores/mr4lexndr/?ref=offsite_badges&utm_source=sellers_Mr4lexndr&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 # RelAC
+
+
 HomeKit 2-channel Relay module with mains Switch Input based on the HomeSpan library. It is mainly intended to be used with mains voltage appliances controlled in parallel with the Home app and physical switch. It could be hidden e.g. behind a wall light switch.
 
 ![RelAC](https://github.com/mr4lexndr/RelAC/blob/main/assets/RelAC-transparent.png)
+
 
 ## Main Features
 - Mains Supply 100-240 Vac
