@@ -13,7 +13,7 @@ This work is licensed under a
 # RelAC
 HomeKit 2-channel Relay module with mains Switch Input based on the HomeSpan library. It is mainly intended to be used with mains voltage appliances controlled in parallel with the Home app and physical switch. It could be hidden e.g. behind a wall light switch.
 
-![RelAC](https://github.com/mr4lexndr/RelAC/blob/main/assets/RelAC-transparent.png)
+![RelAC](https://github.com/mr4lexndr/RelAC/blob/main/assets/RelAC-board.png)
 
 ## Main Features
 - Mains Supply 100-240 Vac
