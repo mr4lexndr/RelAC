@@ -31,20 +31,21 @@ Contact material AgSnO2 to minimise wear
 
 ## User Integration with HomeSpan
 Status LED and Control Button are attached to deafault pins for most of the boards. S1 Button is also used as boot button during programming
-- LED - GPIO2
-- Button - GPIO0
+- LED `GPIO2`
+- Button `GPIO0`
 
 ## Pinout
-Pin assignment for relays and switch inputs. For single channel version only RELAY1 and SWITCH2 are used.
+Pin assignment for relays and switch inputs. For single channel version only `RELAY 1` and `SWITCH 2` are used.
 
-| COMPONENT    | GPIO |
-| ---          | :---:| 
-| RELAY1 set   | 27   | 
-| RELAY1 reset | 26   |
-| RELAY2 set   | 33   | 
-| RELAY2 reset | 32   |
-| SWITCH1      | 16   | 
-| SWITCH2      | 13   |
+- RELAY 1
+  -  on `GPIO27`
+  - off `GPIO26`
+- RELAY 2 
+  - on `GPIO33`
+  - off `GPIO32`
+- MAINS INPUT
+  - switch 1 `GPIO16`
+  - switch 2 `GPIO13`
 
 
 
