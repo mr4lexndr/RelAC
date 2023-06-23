@@ -52,7 +52,8 @@ Pin assignment for relays and switch inputs. For single channel version only `RE
   - switch 1 `GPIO16`
   - switch 2 `GPIO13`
 
-
+## User Guide
+The setup procedure and configuration can be found [here](https://github.com/HomeSpan/HomeSpan/blob/master/docs/UserGuide.md)
 
 ## To Do
 
